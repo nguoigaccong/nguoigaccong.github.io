@@ -1,0 +1,9 @@
+{
+  "name": "Bắt Sóng",
+  "description": "Ứng dụng hỗ trợ tâm lý, kết nối chuyên gia và hotline khẩn cấp.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
