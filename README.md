@@ -1,6 +1,6 @@
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  Node.js 22
 
 1. Install dependencies:
    `npm install`
